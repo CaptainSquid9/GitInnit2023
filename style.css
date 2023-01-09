@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .background{
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
@@ -11,4 +12,19 @@ input{
 .flip{
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
+=======
+.background{
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border:5px solid black;
+  background-image: url("https://img.freepik.com/premium-vector/geometric-shapes-flat-background_23-2148380469.jpg?w=2000");
+}
+input{
+  box-shadow: 10px;
+}
+.flip{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+>>>>>>> 186a3124679a3c706354215366474ccf6fb9be8c
 }

@@ -18,7 +18,7 @@ app.post('/result.html/submit', (request, response) => {
 
 
 
-puppeteer.launch({headless:true, executablePath: executablePath()}).then(async browser =>{
+puppeteer.launch({headless:false, executablePath: executablePath()}).then(async browser =>{
 var arrayData = new Array();
 var Keyword = "Wendy's mac and cheese"
 var CurrentVal = 0;

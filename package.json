@@ -1,23 +1,10 @@
 {
   "dependencies": {
     "axios": "^1.2.2",
-<<<<<<< HEAD
     "child_process": "^1.0.2",
     "express": "^4.18.2",
     "puppeteer": "^19.4.1",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.1"
-=======
-    "body-parser": "^1.20.1",
-    "child_process": "^1.0.2",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "log4js": "^6.7.1",
-    "puppeteer": "^19.4.1",
-    "puppeteer-extra": "^3.3.4",
-    "puppeteer-extra-plugin-stealth": "^2.11.1",
-    "pynode": "^0.2.0",
-    "winston": "^3.8.2"
->>>>>>> 186a3124679a3c706354215366474ccf6fb9be8c
   }
 }

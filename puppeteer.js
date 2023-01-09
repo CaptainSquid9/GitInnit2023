@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const puppeteer = require('puppeteer-extra');
 
 const {executablePath} = require('puppeteer');

@@ -1,4 +1,5 @@
 ﻿# Food Einstein [Will receive front-end update soon]
+ [![Youtube video](https://img.youtube.com/vi/lwidygEgF_g/0.jpg)](https://www.youtube.com/watch?v=lwidygEgF_g)
  ## Inspiration
 
 We were inspired to make this project, since we were interested in knowing the amount of calories of the foods we were eating. We knew that, although some foods come with the amount of calories that they contain, most don't. So, we decided that it could be useful to use our knowledge of webscraping and the internet to be able to learn the amount of calories any food in the world contains.
